@@ -1,0 +1,6 @@
+{
+  "name": "StudioSpace",
+  "description": "Peer-to-peer creative workspace and production studio sharing marketplace for filmmakers, photographers, podcasters, and musicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
